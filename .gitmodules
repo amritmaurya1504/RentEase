@@ -1,0 +1,3 @@
+[submodule "RentEase_Backend"]
+	path = RentEase_Backend
+	url = https://github.com/amritmaurya1504/RentEase_Backend.git

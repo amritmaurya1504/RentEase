@@ -1,6 +1,6 @@
-[submodule "RentEase_Backend"]
-	path = RentEase_Backend
+[submodule "Rentease-Server"]
+	path = Rentease-Server
 	url = https://github.com/amritmaurya1504/RentEase_Backend.git
-[submodule "RentEase_Client"]
-	path = RentEase_Client
+[submodule "Rentease-Frontend"]
+	path = Rentease-Frontend
 	url = https://github.com/sampriti27/RentEase_Client.git
